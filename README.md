@@ -41,3 +41,7 @@ NEXT_PUBLIC_HDHUB_URL=https://your-hdhub-addon-url
 npm run build
 npm start
 ```
+
+## Deployment
+
+Docker setup for hosting this UI on Hugging Face Spaces lives in [deploy/hf-space](deploy/hf-space/).
